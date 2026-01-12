@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Postgres runtime data
+go-movies-back-end/postgres-data/
