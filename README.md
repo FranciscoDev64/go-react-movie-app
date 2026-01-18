@@ -1,6 +1,6 @@
 # Go + React Movie App
 
-A full-stack **movie catalog web application** built with **React (front end)** and **Go (back end)** — demonstrating a real-world, **production-ready** developer workflow. This project was developed while completing the Udemy course *“Working with React and Go (Golang)”*, where I learned how to build, secure, query, and deploy a modern web application with best practices. :contentReference[oaicite:1]{index=1}
+A full-stack **movie catalog web application** built with **React (front end)** and **Go (back end)** — demonstrating a real-world, **production-ready** developer workflow. This project was developed while completing the Udemy course *“Working with React and Go (Golang)”*, where I learned how to build, secure, query, and deploy a modern web application with best practices.
 
 ---
 
@@ -14,7 +14,7 @@ This application allows users to:
 ✔️ Perform full CRUD operations (Create, Read, Update, Delete)  
 ✔️ Request data via both REST and GraphQL endpoints  
 
-The back end is written in **Go (Golang)** and the front end in **React (React 18 + Router 6)**, connected to a **PostgreSQL** database and secured using **JWT authentication**. :contentReference[oaicite:2]{index=2}
+The back end is written in **Go (Golang)** and the front end in **React (React 18 + Router 6)**, connected to a **PostgreSQL** database and secured using **JWT authentication**.
 
 ---
 
@@ -86,8 +86,6 @@ go-react-movie-app/
 ├── docker-compose.yml # Local development stack
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -97,7 +95,7 @@ To run this project locally:
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/go-react-movie-app.git
+   git clone https://github.com/FranciscoDev64/go-react-movie-app.git
     
 Start the dev stack
 
